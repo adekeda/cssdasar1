@@ -1,10 +1,9 @@
-h1 {
+h1, h2 {
     color:rgb(155, 39, 39);
 
 }
 
 body {
 background-color: rgb(194, 194, 209)161, 161, 189);
-background-image: red;
-background-repeat: repeat-x;
+font-family : arial;
 }
