@@ -8,14 +8,18 @@ background-color: rgb(194, 194, 209)161, 161, 189);
 font-family : arial;
 }
 
-ul li a {
-    color: rgb(4, 4, 68);
+ul,OL,a  {
+    color: rgb(25, 255, 25);
     text-decoration: none;
     
 }
 
-ol li a
+#p1
 {
-    color:red;
-    text-decoration: none;
+    color:yellow
+}
+
+.p2
+{
+    color: violet;
 }
